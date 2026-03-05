@@ -1,0 +1,7 @@
+{
+  "name": "BALCAD SPORTS",
+  "description": "A modern football live score mobile app featuring real-time updates, league tables, news, and more.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
